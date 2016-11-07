@@ -1,0 +1,51 @@
+#Header{
+	background-color: #cfcfd1; height: 100px;
+}
+#TUSCANY{
+     text-align: center;
+     font-family: 'Molengo', sans-serif;
+     margin-bottom: 0px;
+     margin-top: 0px;
+     padding-top: 10px;
+}
+#Design{
+	font-family: 'Over the Rainbow', cursive;
+	text-align: center;
+	 margin-bottom: 0px;
+     margin-top: 0px;
+}
+
+
+
+.thumbnail{
+	height: 400px;
+	background-image: none;
+
+
+}
+#wc1{
+	
+	
+	background-repeat: no-repeat;
+	margin: 0px;
+}
+.pic1{
+	max-height: 100%;
+	min-width: 100%;
+	padding-bottom:50px; 
+}
+.pic2{
+	max-height: 100%;
+	min-width: 100%;
+}
+.image-responsive{
+	max-height: 100%;
+	max-width: 100%;}
+#footnote{
+    text-align: center;
+}
+
+
+
+
+	
